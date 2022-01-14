@@ -14,3 +14,11 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.habits.facts.svg
+           base: ''
+          plugin_habits: 'yes'
+          plugin_habits_facts: 'yes'
+          plugin_habits_charts: 'yes'
+          config_timezone: Europe/Paris
+          
+          
