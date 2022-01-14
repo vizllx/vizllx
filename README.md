@@ -3,12 +3,13 @@
 
 <a href="https://apps.apple.com/us/developer/" target="_blank"><img src="https://img.shields.io/badge/Vizllx-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="shorturl.at/wxBKN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-@Sandeep.M-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/2714702/vizllx" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-@vizllx-blue.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@vizllx" target="_blank"><img src="https://img.shields.io/badge/Medium-@vizllx-blue.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
 
+<br />
 
 <h2 align='center'> Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
   
   ### 🔧 About me 
   
-   I'm an iOS Enthusiast  ,  have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
+   An iOS Enthusiast  ,  have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
   <p align="center">
   <img src="https://img.shields.io/badge/unminified%20size-6%20feet%206%20inches-informational" />
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
@@ -81,9 +82,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vizllx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vizllx's GitHub Stats" />
 </a>
 
-
-<h1 align='center'><i>Stay awesome!</i></h1>
-
+<br />
+<br />
 
 ![Metrics](https://github.com/vizllx/vizllx/blob/main/github-metrics.svg)
 
