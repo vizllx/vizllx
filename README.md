@@ -14,15 +14,15 @@
   <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
   <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
+<br />
 
-### I'm Currently
+## I'm Currently
 
 - 📱 Building cool mobile apps
 - 📚 Mentoring budding programmers
 - ⚛️ Building open source community
 - 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
-
-
+<br />
 
 
 ## 🔧 Technologies & Tools
@@ -71,6 +71,7 @@
     <img src="https://img.shields.io/badge/Firebase-000000?&style=for-the-badge&logo=Firebase&logoColor=white">
   </a>
 </p>
+<br />
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/vizllx/vizllx">
@@ -82,6 +83,9 @@
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+
+![Metrics](https://github.com/vizllx/vizllx/blob/main/github-metrics.svg)
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=vizllx.vizllx&style=for-the-badge">
