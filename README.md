@@ -5,7 +5,7 @@
 
 <br />
 
-<h2 align='center'> Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
+<h2 align='center'> Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </h2>
   
   ### 🔧 About me 
   
