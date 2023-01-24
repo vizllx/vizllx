@@ -22,7 +22,7 @@
 - 📱 Building cool mobile apps
 - 📚 Mentoring budding programmers
 - ⚛️ Building open source community
-- 👷🏽‍♂️ Setting up my tech blog ﹣ will be ready soon...
+- 👷🏽‍♂️ hustling around with some great ideas
 <br />
 
 
@@ -79,15 +79,21 @@
 <br />
 <br />
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/vizllx/vizllx">
+## &#x1f4c8; CoderRank Stats
+<p>
+<a href="https://profile.codersrank.io/user/vizllx/">
+ <img align="center" src= "https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vizllx&width=400&show-avatar=false&show-header=false&style=--badge-bg-color:%23333333;--branding-text-color:%234c4c4c;--badge-text-color:%23fff;--bg-color:%23191919">
+ </a>
+ </p>
+
+<!-- <a href="https://github.com/vizllx/vizllx">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vizllx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vizllx's GitHub Stats" />
-</a>
+</a> -->
 
 <br />
 <br />
 
-![Metrics](https://github.com/vizllx/vizllx/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/vizllx/vizllx/blob/main/github-metrics.svg) -->
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=vizllx.vizllx&style=for-the-badge">
