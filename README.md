@@ -82,7 +82,7 @@
 ## &#x1f4c8; CoderRank Stats
 <p>
 <a href="https://profile.codersrank.io/user/vizllx/">
- <img align="center" src= "https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vizllx&width=400&show-avatar=false&show-header=false&style=--badge-bg-color:%23333333;--branding-text-color:%234c4c4c;--badge-text-color:%23fff;--bg-color:%23191919">
+ <img align="center" src= "https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vizllx&width=400&show-avatar=false&show-header=false&style=--badge-bg-color:%23333333;--branding-text-color:%234c4c4c;--badge-text-color:%23fff;--bg-color:%23191919" width="450" height="130">
  </a>
  </p>
 
